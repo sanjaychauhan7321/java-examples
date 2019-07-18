@@ -1,3 +1,1 @@
-# Java examples
-
-Working project examples
+# A spring boot REST api example for two way ssl 
